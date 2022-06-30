@@ -1,0 +1,8 @@
+# Don't upload config or hidden data
+.*.json
+.*.txt
+old.txt
+run
+
+# Directories too
+tools/
